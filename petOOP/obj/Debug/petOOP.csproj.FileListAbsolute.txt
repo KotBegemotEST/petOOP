@@ -1,0 +1,10 @@
+C:\Users\buket\source\repos\petOOP\petOOP\bin\Debug\petOOP.exe.config
+C:\Users\buket\source\repos\petOOP\petOOP\bin\Debug\petOOP.exe
+C:\Users\buket\source\repos\petOOP\petOOP\bin\Debug\petOOP.pdb
+C:\Users\buket\source\repos\petOOP\petOOP\obj\Debug\petOOP.csprojAssemblyReference.cache
+C:\Users\buket\source\repos\petOOP\petOOP\obj\Debug\petOOP.Form1.resources
+C:\Users\buket\source\repos\petOOP\petOOP\obj\Debug\petOOP.Properties.Resources.resources
+C:\Users\buket\source\repos\petOOP\petOOP\obj\Debug\petOOP.csproj.GenerateResource.cache
+C:\Users\buket\source\repos\petOOP\petOOP\obj\Debug\petOOP.csproj.CoreCompileInputs.cache
+C:\Users\buket\source\repos\petOOP\petOOP\obj\Debug\petOOP.exe
+C:\Users\buket\source\repos\petOOP\petOOP\obj\Debug\petOOP.pdb
